@@ -1,1 +1,0 @@
-# seletor-de-palavras
