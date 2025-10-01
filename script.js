@@ -9,64 +9,64 @@ const perguntas = [
         enunciado: "",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Ao planejar uma atividade de fim de semana, o que mais te motiva?",
+                afirmacao: "Sua motivação é intrinsecamente ligada à Performance e Desenvolvimento Pessoal, buscando a melhoria contínua através do lazerl. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "O convívio social e a possibilidade de se divertir e relaxar com amigos, não importando tanto a atividade em si, mas a companhia",
+                afirmacao: "O lazer é visto primariamente como uma ferramenta de Conexão e Bem-Estar Social, onde a experiência compartilhada é o maior valor."
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Qual cenário de férias te atrai mais?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Explorar lugares remotos, acampar e fazer trilhas longas ou esportes radicais, onde a natureza é o principal desafio e entretenimento..",
+                afirmacao: "Busca o lazer na Aventura e na Exploração de Ambientes Naturais, valorizando a imprevisibilidade e a autossuficiência."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Passar o tempo em um local com infraestrutura esportiva organizada (clube, resort), onde posso praticar esportes com regras definidas e segurança.",
+                afirmacao: "Prefere um lazer Estruturado e Controlado, onde a organização e a acessibilidade facilitam a prática consistente de atividades."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Em uma discussão sobre o esporte de alto rendimento, qual é o seu principal ponto de vista?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "O esporte profissional deve ser um modelo de estratégia e eficiência, onde a tecnologia e a análise de dados são cruciais para a vitória.",
+                afirmacao: "Tem um olhar Analítico e Estratégico sobre o esporte, vendo-o como uma ciência de otimização de resultados e desempenho."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "O mais importante são as histórias de vida e o simbolismo cultural dos atletas, que inspiram milhões e promovem valores de perseverança.",
+                afirmacao: "Seu interesse é focado no **Aspecto Humano e Inspiracional** do esporte, valorizando a narrativa e o impacto social e emocional."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Se você fosse um líder de equipe em um jogo, qual seria sua prioridade imediata após uma derrota?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Reunir o time para revisar os erros táticos e técnicos, definindo novos planos de treino para não repetir a falha.",
+                afirmacao: "Sua abordagem é Pragmática e Corretiva, focada em dados e ajustes técnicos para garantir resultados futuros."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Levantar o ânimo de todos, focando na **coesão do grupo** e na importância de manter a confiança e o espírito de equipe elevado..",
+                afirmacao: "Sua liderança é **Emocional e Motivacional**, entendendo que o fator humano e a moral são decisivos para a recuperação"
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Em relação a 'lazer passivo' (como assistir a eventos, filmes, etc.), qual atitude mais te define? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Consumo o lazer passivo como um estudo, buscando referências e técnicas que possa aplicar nas minhas atividades práticas.",
+                afirmacao: "Até mesmo seu lazer passivo é Intencional e Voltado para o Aprendizado, buscando conhecimento aplicável em suas práticas ativas."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Utilizo o lazer passivo como uma fuga total da rotina, permitindo-me desligar e recuperar as energias para o próximo dia.",
+                afirmacao: "O lazer passivo serve como uma ferramenta de Descanso e Restauração Mental, sendo fundamental para o equilíbrio emocional e a recarga. "
             }
         ]
     },
@@ -106,7 +106,7 @@ function respostaSelecionada(opcaoSelecionada){
 
 }
 function mostraResultado(){
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Sobre...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 
